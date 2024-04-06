@@ -8,4 +8,4 @@ Hệ thống quản lý báo cáo của Khoa CNTT được phát triển để t
 
 Dưới đây là sơ đồ lớp của hệ thống QUẢN LÝ BÁO CÁO KHOA CNTT:
 
-![Sơ đồ lớp](img/Class Diagram QLDA.png)
+![Sơ đồ lớp](Class_Diagram_QLDA.png)
